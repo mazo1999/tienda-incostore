@@ -1,5 +1,6 @@
 
-![Grabación de pantalla 2024-01-14 a la(s) 3 50 30 p m  (1) (1)](https://github.com/mazo1999/tienda-incostore/assets/114840539/5f0122aa-232f-456b-84c0-1ae324734e9f)
+![Grabación de pantalla 2024-01-14 a la(s) 3 50 30 p (1)](https://github.com/mazo1999/tienda-incostore/assets/114840539/56d5feb7-8089-463b-9521-179b720a5893)
+
 
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2024-01-14 at 15 51 53](https://github.com/mazo1999/tienda-incostore/assets/114840539/31ca67db-8d77-4a9f-aee7-5db774d0a7d4)
